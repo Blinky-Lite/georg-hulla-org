@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://phlow.github.io//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://www.blinky-lite.org/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://phlow.github.io//assets/js/modernizr.min.js"></script>
+	<script src="https://www.blinky-lite.org/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://phlow.github.io//assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://www.blinky-lite.org/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="https://phlow.github.io//assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://www.blinky-lite.org/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Feeling Responsive">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://phlow.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="https://www.blinky-lite.org/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://phlow.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://www.blinky-lite.org/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://phlow.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://www.blinky-lite.org/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://phlow.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://phlow.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://phlow.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://phlow.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://phlow.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://phlow.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://phlow.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://phlow.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://www.blinky-lite.org/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://phlow.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="https://www.blinky-lite.org/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://phlow.github.io/" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="hide-for-large-up"><a href="https://www.blinky-lite.org" class="icon-tree"> Feeling Responsive</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -124,7 +124,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io//">Start</a></li>
+              <li><a  href="https://www.blinky-lite.org/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -139,7 +139,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io//getting-started/">Getting Started</a></li>
+              <li><a  href="https://www.blinky-lite.org/getting-started/">Getting Started</a></li>
               <li class="divider"></li>
 
             
@@ -156,59 +156,59 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://phlow.github.io//design/">Templates</a>
+                <a  href="https://www.blinky-lite.org/design/">Templates</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/grid/">Grid &amp; Colors</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/typography/typography/">Typography</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/typography/typography/">Typography</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/page/">Page/Post</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/page/">Page/Post</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/post-left-sidebar/">Post-Left-Sidebar</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/post-right-sidebar/">Post-Right-Sidebar</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/page-fullwidth/">Page Full-Width</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/page-fullwidth/">Page Full-Width</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//blog/">Blog-Page</a></li>
+                      <li><a  href="https://www.blinky-lite.org/blog/">Blog-Page</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/video/">Video</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/video/">Video</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/gallery/">Gallery</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/gallery/">Gallery</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/portfolio/">Portfolio</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/portfolio/">Portfolio</a></li>
                     
                   </ul>
 
@@ -227,44 +227,44 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://phlow.github.io//headers/">Header Styles</a>
+                <a  href="https://www.blinky-lite.org/headers/">Header Styles</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/header-full-width-image/">Header with Full-Width-Image</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/header-image-pattern/">Header with Image and Pattern</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/header-image-color/">Header with image and color</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/header-image-color/">Header with image and color</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/header-logo-only/">Header Only With Logo</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/header-logo-only/">Header Only With Logo</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/header-with-text/">Header With Text</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/header-with-text/">Header With Text</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/no-header/">No Header</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/no-header/">No Header</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a  href="https://www.blinky-lite.org/design/no-header-but-image/">No Header but Image</a></li>
                     
                   </ul>
 
@@ -283,19 +283,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://phlow.github.io//documentation/">Documentation</a>
+                <a  href="https://www.blinky-lite.org/documentation/">Documentation</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//changelog/">Changelog</a></li>
+                      <li><a  href="https://www.blinky-lite.org/changelog/">Changelog</a></li>
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//roadmap/">Roadmap</a></li>
+                      <li><a  href="https://www.blinky-lite.org/roadmap/">Roadmap</a></li>
                     
                   </ul>
 
@@ -314,14 +314,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://phlow.github.io//blog/">Blog</a>
+                <a  href="https://www.blinky-lite.org/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io//blog/archive/">Blog Archive</a></li>
+                      <li><a  href="https://www.blinky-lite.org/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -407,7 +407,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://phlow.github.io//search/">Search</a></li>
+              <li><a  href="https://www.blinky-lite.org/search/">Search</a></li>
 
             
             
@@ -423,7 +423,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://phlow.github.io//contact/">Contact</a></li>
+              <li><a  href="https://www.blinky-lite.org/contact/">Contact</a></li>
 
             
             
@@ -441,8 +441,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://phlow.github.io/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="https://phlow.github.io//assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="https://www.blinky-lite.org/" title="Feeling Responsive – A Flexible Theme for Jekyll">
+				<img src="https://www.blinky-lite.org/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -520,7 +520,7 @@
 
             <p class="shadow-black">
               »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="https://phlow.github.io//info/">More ›</a>
+              <a href="https://www.blinky-lite.org/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -544,27 +544,27 @@
               
                 
                   <li >
-                    <a href="https://phlow.github.io/"  title=""></a>
+                    <a href="https://www.blinky-lite.org"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io//contact/"  title="Contact">Contact</a>
+                    <a href="https://www.blinky-lite.org/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="https://www.blinky-lite.org/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="https://www.blinky-lite.org/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://www.blinky-lite.org/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -590,7 +590,7 @@
             
               
                 <li >
-                  <a href="https://phlow.github.io/"  title=""></a>
+                  <a href="https://www.blinky-lite.org"  title=""></a>
                 </li>
             
               
@@ -646,7 +646,7 @@
 		
 
 
-<script src="https://phlow.github.io//assets/js/javascript.min.js"></script>
+<script src="https://www.blinky-lite.org/assets/js/javascript.min.js"></script>
 
 
 
