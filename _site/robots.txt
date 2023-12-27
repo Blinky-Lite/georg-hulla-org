@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blinky-lite.org/feeling-responsive/sitemap.xml
+Sitemap: /sitemap.xml
