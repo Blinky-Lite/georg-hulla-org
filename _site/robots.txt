@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://phlow.github.io/sitemap.xml
+Sitemap: https://phlow.github.io//sitemap.xml
