@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: georgheader.jpg
 widget1:
-  title: "Overview"
+  title: "Overview!"
   video: '<a href="#" data-reveal-id="videoModal1"><img src="/images/georgClimbingWidget.jpg" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
 widget2:
   title: "Architecture"
@@ -30,7 +30,7 @@ widget3:
 callforaction:
   url: /myapps
   text: My Blinky-Lite Apps
-  style: primary
+  style: alert
 
 permalink: /index.html
 #
