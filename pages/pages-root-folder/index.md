@@ -6,10 +6,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: mirrotronCoolingHdr.jpg
+  image_fullwidth: georgheader.jpg
 widget1:
   title: "Overview"
-  video: '<a href="#" data-reveal-id="videoModal1"><img src="/images/overviewThumb.png" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
+  video: '<a href="#" data-reveal-id="videoModal1"><img src="/images/georgClimbingWidget.jpg" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
 widget2:
   title: "Architecture"
   video: '<a href="#" data-reveal-id="videoModal2"><img src="/images/archThumb.png" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
@@ -27,9 +27,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-#callforaction:
-#  video: 'https://www.youtube.com/embed/ixhx7huZjTI?si=0Gq-TxCqrKp-QzCg'
-#  title: 'Featured Video: Blinky-Leak Installation'
+callforaction:
+  url: /myapps
+  text: My Blinky-Lite Apps
+  style: primary
 
 permalink: /index.html
 #

@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Blinky-Lite</title>
-		<description>A full-stack, open-source, remote automation platform</description>
+		<title>Georg Hulla</title>
+		<description>I get things done</description>
 		<link>/</link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
