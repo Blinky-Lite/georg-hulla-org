@@ -5,6 +5,7 @@ format: frontpage
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
+            <h2 style="color:white;"><i>{{site.slogan}}</i></h2>
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
@@ -41,12 +42,14 @@ format: frontpage
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
 {% endif %}
+
 {% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+    <div class="row t30">
+        <h2>{{page.callforaction.title}}</h2>
+        <div class="flex-video widescreen vimeo" style="display: block;">
+            <iframe width="1280" height="720" src={{page.callforaction.video}} frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
 {% endif %}
 
 
@@ -58,7 +61,8 @@ format: frontpage
 {% endcomment %}
 
 {% unless site.posts == empty %}
-    <div class="row t30 b20 homepage">
+    <div class="row b20 homepage">
+        <h2><a class="button large radius" href="{{ site.url }}{{ site.baseurl }}/blog">Posts</a></h2>
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}

@@ -1,7 +1,4 @@
-#ignore
-_site/upload.sh
-_site/runLocal.sh
-_site/jekyll-theme-feeling-responsive.gemspec
+#_site
 .bundle
 .DS_Store
 .jekyll-cache
