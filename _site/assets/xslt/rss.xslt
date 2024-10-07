@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="I do things">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -42,11 +42,11 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="I do things">
 	<meta property="og:url" content="/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive!">
+	<meta property="og:site_name" content="Georg Hulla">
 	
 	<meta property="article:author" content="https://www.facebook.com/phlow.media">
 
@@ -57,7 +57,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="twitter:description" content="I do things">
 	
 	
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="" class="icon-tree"> Feeling Responsive!</a></h1>
+      <h1 class="hide-for-large-up"><a href="" class="icon-tree"> Georg Hulla</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -441,8 +441,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/" title="Feeling Responsive! – A Flexible Theme for Jekyll">
-				<img src="/assets/img/logo.png" alt="Feeling Responsive! – A Flexible Theme for Jekyll">
+			<a id="logo" href="/" title="Georg Hulla – An innovator, an entrepreneur, and a rebel">
+				<img src="/assets/img/GeorgLogo.png" alt="Georg Hulla – An innovator, an entrepreneur, and a rebel">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -519,7 +519,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+              I do things
               <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
