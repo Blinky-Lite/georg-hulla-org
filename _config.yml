@@ -11,10 +11,10 @@
 title: 'Georg Hulla'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'An innovator, an entrepreneur, and a rebel'
+slogan: 'An innovator, an entrepreneur, and a rebel sometimes'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'I get things done'
+description: 'I get things done sometimes'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Forked from <a href="https://github.com/Phlow/feeling-responsive">Feeling-Repsonsive</a></p>'

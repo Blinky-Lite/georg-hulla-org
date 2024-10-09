@@ -12,7 +12,7 @@ widget1:
   video: '<a href="#" data-reveal-id="videoModal1"><img src="/images/georgClimbingWidget.jpg" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
 widget2:
   title: "Architecture"
-  video: '<a href="#" data-reveal-id="videoModal2"><img src="/images/archThumb.png" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
+  video: '<a href="#" data-reveal-id="videoModal2"><img src="/images/trump.png" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'
 widget3:
   title: "Installation"
   video: '<a href="#" data-reveal-id="videoModal3"><img src="/images/installThumb.png" width="300" height="169" alt="" style="border: 5px solid #89bee6;"/></a>'

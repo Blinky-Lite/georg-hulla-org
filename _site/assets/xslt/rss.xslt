@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="I get things done">
+	<meta name="description" content="I get things done sometimes">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -42,7 +42,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="I get things done">
+	<meta property="og:description" content="I get things done sometimes">
 	<meta property="og:url" content="/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -57,7 +57,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="I get things done">
+	<meta name="twitter:description" content="I get things done sometimes">
 	
 	
 
@@ -312,8 +312,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/" title="Georg Hulla – An innovator, an entrepreneur, and a rebel">
-				<img src="/assets/img/GeorgLogo.png" alt="Georg Hulla – An innovator, an entrepreneur, and a rebel">
+			<a id="logo" href="/" title="Georg Hulla – An innovator, an entrepreneur, and a rebel sometimes">
+				<img src="/assets/img/GeorgLogo.png" alt="Georg Hulla – An innovator, an entrepreneur, and a rebel sometimes">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -390,7 +390,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              I get things done
+              I get things done sometimes
               <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
