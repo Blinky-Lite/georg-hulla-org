@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec jekyll serve --port 4000
+hugo server

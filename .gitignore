@@ -1,9 +1,0 @@
-#_site
-.bundle
-.DS_Store
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
-Gemfile.lock
-_site/runLocal.sh
-_site/upload.sh
