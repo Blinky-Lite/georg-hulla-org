@@ -1,13 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", "~> 4.3" # installed by `gem jekyll`
+# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-group :jekyll_plugins do
-  gem 'jekyll-gist'
-  gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
-end
-
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
-
+#gem "creative-theme-jekyll"        # always download the latest release
