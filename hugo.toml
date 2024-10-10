@@ -1,0 +1,4 @@
+baseURL = 'https://georg-hulla.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
